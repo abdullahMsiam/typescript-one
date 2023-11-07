@@ -49,7 +49,7 @@
         designation2: 'backend dev'
     }
 
-
+    console.log(fullStack);
 
 
 
