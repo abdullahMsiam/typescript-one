@@ -22,6 +22,17 @@
     console.log(res1);
 
 
+    type CustomErr = {
+        message: string
+    }
+
+    try {
+
+    } catch (error) {
+        console.log((error as CustomErr).message);
+    }
+
+
 
 
 
