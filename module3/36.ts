@@ -1,6 +1,16 @@
 {
     // GETTER AND SETTER IN OOP JS -------------->
 
+    /* 
+    6th bootcamp suggestion : 
+    12 no assignment can revise again. 
+    follow some targeted companies and explore them 
+    shadcn ui
+    learning and apply on a project
+    parallel project  
+    
+    */
+
     class BankAccount {
         readonly id: number;
         name: string;
