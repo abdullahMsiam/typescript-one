@@ -12,9 +12,11 @@
         }
     }
 
+    //--------->>>>
     const instanceCount1 = new StaticCount();
     console.log(instanceCount1.increment());
 
+    // ---------->>>
     console.log(StaticCount.decrement());
     console.log(StaticCount.decrement());
     console.log(StaticCount.decrement());
