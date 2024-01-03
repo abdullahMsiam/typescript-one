@@ -61,8 +61,7 @@
         }
     }
 
-    const theCar = new MarcCar();
-    console.log(theCar.startCar())
+
 
 
 
